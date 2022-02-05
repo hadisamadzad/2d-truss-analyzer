@@ -1,5 +1,5 @@
 ## 2D Truss Analyzer
-2D Truss Anlalyzer is a student-level application written in C++ featuring DXF output generator.
+2D Truss Anlalyzer is a student-level application written in C++ featuring DXF output generator for initial and deformed shape of the truss.
 
 ### Features
 
