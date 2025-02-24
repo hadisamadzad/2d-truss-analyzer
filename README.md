@@ -7,6 +7,8 @@
 - Unloaded vs loaded truss viewer
 - Standard DXF format output
 
+![Truss Analysis Result: Deflection](https://github.com/user-attachments/assets/362af45c-06db-4bf9-ba86-3e1e39399371)
+
 ### Input File Format
 The application reads inputes form a `TA.input` text file in separate lines. The input format described below.
 
